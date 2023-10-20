@@ -1,0 +1,156 @@
+.list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.list__item {
+    width: 200px;
+    height: 200px;
+    color: rgba(0, 0, 0, 0.11);
+    font-size: 45px;
+    background-image: linear-gradient(-45deg, blue, red, purple);
+    /* text-align: center; */
+    border-radius: 20px;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+img{
+    width: 180px;
+    height: 120px;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.header__list {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__item a {
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+}
+
+.hero{
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.km{
+    width: 200px;
+    border: 1px solid #000;
+    outline: none;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background: rgba(36, 240, 47, 0.342);
+    color: #000;
+    border: none;
+}
+
+.tezlik{
+    width: 200px;
+    border: 1px solid #000;
+    outline: none;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background: rgba(36, 240, 47, 0.342);
+    color: #000;
+    border: none;
+}
+
+.btn{
+    padding: 10px 50px;
+    border: 1px solid #000;
+    outline: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-size: 25px;
+    border-radius: 15px;
+    background:rgba(0, 0, 255, 0.527);
+    color: #000;
+    cursor: pointer;
+
+}
+
+.img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.butt{
+    padding: 50px 20px;
+    border: 1px solid #000;
+    outline: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+    font-size: 25px;
+    border-radius: 15px;
+    background:rgba(0, 0, 255, 0.527);
+    color: #000;
+    cursor: pointer;
+}
+
+.b{
+    
+        font-size: 20px;
+        text-align: center;
+        margin-top: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
